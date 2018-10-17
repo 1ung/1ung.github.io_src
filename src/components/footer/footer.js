@@ -20,7 +20,7 @@ class Footer extends Component {
                     </ul>
                 </Col>
                 <div id="go-top">
-                    <a class="arrow-up" title="Back to Top" href="#app"><i class="fas fa-chevron-circle-up"></i></a>
+                    <a class="arrow-up" title="Back to Top" href="#home"><i class="fas fa-chevron-circle-up"></i></a>
                 </div>
             </Row>
             </div>
