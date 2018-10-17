@@ -212,3 +212,15 @@ html {
   from, to { border-color: transparent }
   50% { border-color: orange; }
 }
+
+@media (max-width: 600px) {
+  .intro-name {
+    font-size: 70px;
+  }
+}
+
+@media (max-width: 400px) {
+  .intro-name {
+    font-size: 44px;
+  }
+}
