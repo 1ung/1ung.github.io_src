@@ -10,13 +10,13 @@ import Footer from './components/footer/footer';
 class App extends Component {
   render() {
     return (
-      <div className="App" id="app">
+      <div className="App" id="home">
         <header className="App-header">
           <Navbar className="navbar-fixed-top nav-bar">
             <Navbar.Toggle />
             <Navbar.Collapse>
               <Nav className="nav" id="nav">
-                <NavItem eventKey={1} href="#app" className="nav-item">HOME</NavItem>
+                <NavItem eventKey={1} href="#home" className="nav-item">HOME</NavItem>
                 <NavItem eventKey={2} href="#about" className="nav-item">ABOUT</NavItem>
                 <NavItem eventKey={3} href="#resume" className="nav-item">RESUME</NavItem>
                 <NavItem eventKey={4} href="#works" className="nav-item">WORKS</NavItem>
