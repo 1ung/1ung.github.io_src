@@ -37,7 +37,7 @@ class About extends Component {
                         </p>
                     </Col>
                     <Col sm={8} className="download-resume">
-                        <a href="/portfolio/My-Resume.pdf"><Button bsStyle="primary" bsSize="large" className="download-btn">
+                        <a href="/My-Resume.pdf"><Button bsStyle="primary" bsSize="large" className="download-btn">
                         <i class="fas fa-download"></i>
                             <span className="resume-span">Download Resume</span>
                         </Button></a>
